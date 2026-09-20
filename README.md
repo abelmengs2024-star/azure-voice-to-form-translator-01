@@ -24,6 +24,8 @@ Technologies Used
 
  Architecture
 
+voicetoform-Architecture.png 
+
 The project uses a multi-region Azure architecture with Canada Central
 as the primary region and Canada East as the secondary region.
 
